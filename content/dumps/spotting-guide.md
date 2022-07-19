@@ -17,7 +17,13 @@ We will start off with the objects that are the same for all the factions, and a
 ## Drops
 ### Airhead
 All airheads are made the same. It will always be a red parachute with a square box.
-
+::image-slider
+---
+images:
+  - '/spotting-guide/airhead-dropping.jpg'
+  - '/spotting-guide/airhead-dropped.jpg'
+---
+::
 ###  Ammo Drop
 
 ### 
@@ -32,11 +38,51 @@ An allied supply drop will have a white parachute, and an axis supply drop will 
 If it's a red parachute make sure you check the shape of the drop to rule out an airhead.
 The german supply drop will look like a rocket.
 
+::image-slider
+---
+title: Axis
+images:
+  - '/spotting-guide/supply-drop-axis.jpg'
+  - '/spotting-guide/supply-axis.jpg'
+---
+::
+
+::image-slider
+---
+title: Allies
+images:
+  - '/spotting-guide/supply-drop-us.jpg'
+  - '/spotting-guide/supply-us.jpg'
+---
+::
+
 ## Tanks
 ### Recon Vehicles
 
+
 ### Light Tanks
 There's currently only two light tanks in the game, the American Stuart and the German Luchs.
+
+::image-slider
+---
+title: Stuart
+images:
+  - '/spotting-guide/stuart-cross.jpg'
+  - '/spotting-guide/stuart-front.jpg'
+  - '/spotting-guide/stuart-side.jpg'
+  - '/spotting-guide/stuart-back.jpg'
+---
+::
+
+::image-slider
+---
+title: Allies
+images:
+  - '/spotting-guide/supply-drop-us.jpg'
+  - '/spotting-guide/supply-us.jpg'
+---
+::
+
 ### Medium Tanks
 #### T-34
 #### Panzer-IV
@@ -55,6 +101,31 @@ The Tiger is the biggest tank in the game, and is very boxy. The Panther is a bi
 On the US side you have two very similar heavy tanks, the Jumbo 75mm and the Jumbo 76mm. 
 The most common ways to distinguish between them is either the color or the size of the barrel. 
 The 76mm has a very long barrel with a muzzle break at the end. The 75mm is missing the muzzle break and is a different color of green.
+
+::image-slider
+---
+title: Jumbo 75mm
+images:
+  - '/spotting-guide/75-cross.jpg'
+  - '/spotting-guide/75-cross-2.jpg'
+  - '/spotting-guide/75-front.jpg'
+  - '/spotting-guide/75-side.jpg'
+  - '/spotting-guide/75-back.jpg'
+---
+::
+
+::image-slider
+---
+title: Jumbo 76mm
+images:
+  - '/spotting-guide/76-cross.jpg'
+  - '/spotting-guide/76-cross-2.jpg'
+  - '/spotting-guide/76-front.jpg'
+  - '/spotting-guide/76-side.jpg'
+  - '/spotting-guide/76-back.jpg'
+---
+::
+
 ## Light vehicles
 ### Half-Tracks
 > If the engine is off, it can be used as a spawnpoint. You can lock it by standing within 15m of it.
@@ -62,8 +133,39 @@ The 76mm has a very long barrel with a muzzle break at the end. The 75mm is miss
 Generally half-tracks are easy to spot, but very important to call out. You wouldn't want one sneaking around behind your lines.
 
 ### Supply Trucks
+::image-slider
+---
+title: Axis
+images:
+  - '/spotting-guide/supply-truck-axis.jpg'
+---
+::
+
+::image-slider
+---
+title: US
+images:
+  - '/spotting-guide/supply-truck-us.jpg'
+---
+::
 
 ### Transport Trucks
+
+::image-slider
+---
+title: Axis
+images:
+  - '/spotting-guide/transpo-axis.jpg'
+---
+::
+
+::image-slider
+---
+title: US
+images:
+  - '/spotting-guide/transpo-us.jpg'
+---
+::
 
 # Other less important stuff
 ## Planes
