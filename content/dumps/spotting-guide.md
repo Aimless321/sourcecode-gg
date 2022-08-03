@@ -76,18 +76,45 @@ images:
 
 ::image-slider
 ---
-title: Allies
+title: Luchs
 images:
-  - '/spotting-guide/supply-drop-us.jpg'
-  - '/spotting-guide/supply-us.jpg'
+- '/spotting-guide/luchs-cross.jpg'
+- '/spotting-guide/luchs-front.jpg'
+- '/spotting-guide/luchs-side.jpg'
+- '/spotting-guide/luchs-back.jpg'
 ---
 ::
 
 ### Medium Tanks
 #### T-34
 #### Panzer-IV
+
+::image-slider
+---
+images:
+- '/spotting-guide/panzer-iv-cross.jpg'
+- '/spotting-guide/panzer-iv-cross-2.jpg'
+- '/spotting-guide/panzer-iv-front.jpg'
+- '/spotting-guide/panzer-iv-side.jpg'
+- '/spotting-guide/panzer-iv-side-2.jpg'
+- '/spotting-guide/panzer-iv-back.jpg'
+---
+::
+
 #### M4A3 Sherman 
-> Make sure you call it out as a sherman MEDIUM to avoid confusion. If you only say sherman it could still be one of the US heavy tanks. 
+> Make sure you call it out as a MEDIUM to avoid confusion. A sherman can either be the medium or one of the heavies.
+
+::image-slider
+---
+images:
+- '/spotting-guide/sherman-cross.jpg'
+- '/spotting-guide/sherman-cross-2.jpg'
+- '/spotting-guide/sherman-front.jpg'
+- '/spotting-guide/sherman-side.jpg'
+- '/spotting-guide/sherman-back.jpg'
+---
+::
+
 ### Heavy Tanks
 Heavy tanks generally easier to spot because they are the biggest, but identifying the type can is equally important since there are two heavy tanks for USA and Axis.
 #### Russian IS-1
@@ -95,6 +122,31 @@ The Russian IS-1 can be identified by its very long barrel and its blocky front 
 #### Axis tanks
 The germans have both the Tiger and the Panther, two very different tanks with very different playstyles.
 The Tiger is the biggest tank in the game, and is very boxy. The Panther is a bit smaller and has angled armour.
+
+::image-slider
+---
+title: Tiger
+images: 
+- '/spotting-guide/tiger-cross.jpg'
+- '/spotting-guide/tiger-cross-2.jpg'
+- '/spotting-guide/tiger-front.jpg'
+- '/spotting-guide/tiger-side.jpg'
+- '/spotting-guide/tiger-side-2.jpg'
+- '/spotting-guide/tiger-back.jpg'
+---
+::
+
+::image-slider
+---
+title: Panther
+images:
+- '/spotting-guide/panther-cross.jpg'
+- '/spotting-guide/panther-front.jpg'
+- '/spotting-guide/panther-side.jpg'
+- '/spotting-guide/panther-back.jpg'
+---
+::
+
 #### US Tanks
 > You can keep your callout short by simply calling these tanks out as either a 75 or a 76
 
@@ -131,6 +183,16 @@ images:
 > If the engine is off, it can be used as a spawnpoint. You can lock it by standing within 15m of it.
 
 Generally half-tracks are easy to spot, but very important to call out. You wouldn't want one sneaking around behind your lines.
+
+::image-slider
+---
+title: Allies
+images:
+- '/spotting-guide/half-track-us-cross.jpg'
+- '/spotting-guide/half-track-us-cross-2.jpg'
+- '/spotting-guide/half-track-us-back.jpg'
+---
+::
 
 ### Supply Trucks
 ::image-slider
