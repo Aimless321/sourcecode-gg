@@ -33,7 +33,7 @@ This guide is aimed at beginners in Hell Let Loose and is a simplified version o
 |            | Greyhound | Stuart | Sherman M4A3 | Jumbo 75mm | Jumbo 76mm |
 | :--------: | :-------: | :----: | :----------: | :--------: | :--------: |
 | Front Hull |     1     |   2    |      2       |     -      |     -      |
-| Side Hull  |     1     |   2    |      2       |     -      |     -      |
+| Side Hull  |     1     |   2    |      2       |     3      |     3      |
 |   Turret   |     2     |   3    |      4       |     -      |     -      |
 | Rear Hull  |     1     |   2    |      2       |     3      |     3      |
 |   Tracks   |     4     |   8    |      -       |     -      |     -      |
