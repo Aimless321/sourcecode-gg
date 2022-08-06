@@ -29,25 +29,13 @@ This guide is aimed at beginners in Hell Let Loose and is a simplified version o
 
 
 ## I've got a Panzerschreck
-### Against US
-|            | Greyhound | Stuart | Sherman M4A3 | Jumbo 75mm | Jumbo 76mm |
-| :--------: | :-------: | :----: | :----------: | :--------: | :--------: |
-| Front Hull |     1     |   2    |      2       |     -      |     -      |
-| Side Hull  |     1     |   2    |      2       |     3      |     3      |
-|   Turret   |     2     |   3    |      4       |     -      |     -      |
-| Rear Hull  |     1     |   2    |      2       |     3      |     3      |
-|   Tracks   |     4     |   8    |      -       |     -      |     -      |
-
-### Against Soviet Union
-|            | BA-10 | T-34 | IS-1 |
-| :--------: | :---: | :---: | :---: |
-| Front Hull |   1   |  2   |  -   |
-| Side Hull  |   1   |  2   |  3   |
-|   Turret   |   2   |  4   |  -   |
-| Rear Hull  |   1   |  2   |  3   |
-|   Tracks   |   4   |  -   |  -   |
-
-
+|            | Recon | Light | Medium | Heavy |
+| :--------: | :---: | :---: | :----: | :---: |
+| Front Hull |   1   |   2   |   2    |   -   |
+| Side Hull  |   1   |   2   |   2    |   3   |
+|   Turret   |   2   |   3   |   4    |   -   |
+| Rear Hull  |   1   |   2   |   2    |   3   |
+|   Tracks   |   4   |   8   |   -    |   -   |
 
 ## I've got a PTRS
 > Good luck with that thing :)
@@ -60,11 +48,6 @@ This guide is aimed at beginners in Hell Let Loose and is a simplified version o
 | Rear Hull  |  6   |  12   |    16     |   18    |  18   |
 |   Tracks   |  24  |   -   |     -     |    -    |   -   |
 
-
-<!--
-TODO: TEST PANTHER
--->
-
 ## I'm an AT-gun
 > Same damage for all factions
 
@@ -72,29 +55,18 @@ TODO: TEST PANTHER
 | :--------: | :---: | :---: | :----: | :---: |
 | Front Hull |   1   |   2   |   3    |   3   |
 | Side Hull  |   1   |   2   |   3    |   3   |
-|   Turret   |   1   |   3   |   5    |   5   |
+|   Turret   |   2   |   3   |   5    |   5   |
 | Rear Hull  |   1   |   2   |   3    |   3   |
-|   Tracks   |  24   |   -   |   -    |   -   |
-
-
-
-<!--
-TODO: TEST RECON, LIGHT, MEDIUM
--->
+|   Tracks   |   5   |   9   |  >12   |  >12  |
 
 ## I laid some mines
-
 |        | Recon | Light | Medium | Heavy |
 | :----: | :---: | :---: | :----: | :---: |
 |  Hull  |   1   |   2   |   2    |   2   |
 | Tracks |   1   |   5   |   7    |   8   |
 
-
-
 # Tank v Tank
-
 ## I'm in a recon tank
-
 |            | Recon | Light | Medium | Heavy |
 | :----------: | :-----: | :-----: | :------: | :-----: |
 | Front Hull | 2     | -     | -      | -     |
@@ -125,7 +97,6 @@ TODO: TEST RECON, LIGHT, MEDIUM
 
 
 ## I'm in a medium
-
 |            | Recon | Light | Medium | Heavy |
 | :--------: | :---: | :---: | :----: | :---: |
 | Front Hull |   1   |   1   |   2    |   -   |
@@ -133,10 +104,6 @@ TODO: TEST RECON, LIGHT, MEDIUM
 |   Turret   |   1   |   2   |   3    |   -   |
 | Rear Hull  |   1   |   1   |   2    |   2   |
 |   Tracks   |   2   |   5   |   7    |   8   |
-
-<!--
-TODO: TEST TRACK KILL
--->
 
 ## I'm in a heavy
 > Except the Jumbo 75, check medium damage for that
